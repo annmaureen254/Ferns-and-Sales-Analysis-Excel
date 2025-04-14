@@ -1,3 +1,6 @@
+
+
+![image](https://github.com/user-attachments/assets/2b4c2942-3271-4138-a5ff-a5e43fd67aa2)
 # FNP Sales Analysis Dashboard (Excel)
 # Executive Summary
 
